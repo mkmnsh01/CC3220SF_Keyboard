@@ -1,0 +1,1 @@
+"./main.obj" "./pin_mux_config.obj" "../CC3220sf.cmd" -llibc.a -l"C:/ti/simplelink_cc32xx_sdk_4_30_00_06/source/ti/devices/cc32xx/driverlib/ccs/Release/driverlib.a" 
